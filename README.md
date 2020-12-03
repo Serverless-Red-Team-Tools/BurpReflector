@@ -19,4 +19,6 @@ In this repository you have a .jar library where you have this plugin with the n
 
 ![ExtenderView](https://raw.githubusercontent.com/Serverless-Red-Team-Tools/BurpReflector/main/Media/ExtenderView.png)
 
-Once the Burp Reflector tab appears in the top bar, you can access to add the configuration to connect to your websocket
+Once the Burp Reflector tab appears in the top bar, you can access to add the configuration to connect to your websocket:
+
+![ConfigView](https://raw.githubusercontent.com/Serverless-Red-Team-Tools/BurpReflector/main/Media/ConfigView.png)
