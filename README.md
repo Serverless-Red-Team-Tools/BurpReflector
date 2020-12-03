@@ -17,5 +17,6 @@ Burp Reflector requires that you download the burp suite software (https://ports
 
 In this repository you have a .jar library where you have this plugin with the name "BurpReflector.jar" , when you open the burpsuite tool you should see the option "Extender" and then you can pulse in ADD button to add a jar where we have our Burp Reflector:
 
+![ExtenderView](https://raw.githubusercontent.com/Serverless-Red-Team-Tools/BurpReflector/main/Media/ExtenderView.png)
 
 Once the Burp Reflector tab appears in the top bar, you can access to add the configuration to connect to your websocket
