@@ -7,7 +7,7 @@ The differentiating character of this plugin is that the infrastructure supporte
 Next we are going to show how the service is set up in Amazon Web Services, for this we can visualize the following graph:
 
 
-![]https://raw.githubusercontent.com/Serverless-Red-Team-Tools/BurpReflector/main/Media/Schema.png
+![Schema](https://raw.githubusercontent.com/Serverless-Red-Team-Tools/BurpReflector/main/Media/Schema.png)
 
 
 
