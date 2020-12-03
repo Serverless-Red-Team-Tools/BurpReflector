@@ -22,3 +22,14 @@ In this repository you have a .jar library where you have this plugin with the n
 Once the Burp Reflector tab appears in the top bar, you can access to add the configuration to connect to your websocket:
 
 ![ConfigView](https://raw.githubusercontent.com/Serverless-Red-Team-Tools/BurpReflector/main/Media/ConfigView.png)
+
+Once we have configured the address of our websocket and we have connected with it, we can make requests to the HTTP API and view it in the Proxy view:
+
+![ProxyView](https://raw.githubusercontent.com/Serverless-Red-Team-Tools/BurpReflector/main/Media/ProxyView.png)
+
+
+### Deploy in AWS
+
+Coming soon... 
+
+
